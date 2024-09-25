@@ -197,7 +197,7 @@ h2
         height: auto; 
         width: auto;
         display: grid;
-        grid-template-columns: 20% 40% 40%; 
+        grid-template-columns: 25% 35% 40%; 
         grid-template-rows: 75% 75% 75%;
         padding: 0;
         gap: 0; 
